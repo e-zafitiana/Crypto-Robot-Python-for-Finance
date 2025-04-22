@@ -1,4 +1,4 @@
-# 💼 Crypto Robot Python for Finance
+# 💼 Crypto Robot : Python for Finance
 
 This repository contains **my solutions and personal notes** from the free course **"Python pour la Finance"** created by **Crypto Robot**.
 The course covers Python basics applied to data analysis and finance, with practical exercises at the end of each session.
@@ -7,17 +7,17 @@ The course covers Python basics applied to data analysis and finance, with pract
 
 ## 📚 Course Outline
 
-- **0.** Python & VS Code setup  
-- **1.** Variables, operations, data types  
-- **2.** Loops & conditions  
-- **3.** Lists & dictionaries  
-- **4.** Functions & classes  
-- **5.** Data analysis with Pandas  
-- **6.** Data visualization with Matplotlib  
-- **7.** Advanced Pandas techniques (avoid loops)  
-- **8.** Date & time handling  
-- **9.** Backtesting trading strategies  
-- **10.** Portfolio performance analysis  
+- **Week 0:** Python & VS Code setup  
+- **Week 1:** Variables, operations, data types  
+- **Week 2:** Loops & conditions  
+- **Week 3:** Lists & dictionaries  
+- **Week 4:** Functions & classes  
+- **Week 5:** Data analysis with Pandas  
+- **Week 6:** Data visualization with Matplotlib  
+- **Week 7:** Advanced Pandas techniques (avoid loops)  
+- **Week 8:** Date & time handling  
+- **Week 9:** Backtesting trading strategies  
+- **Week 10:** Portfolio performance analysis  
 
 ---
 
