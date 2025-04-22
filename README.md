@@ -7,17 +7,17 @@ The course covers Python basics applied to data analysis and finance, with pract
 
 ## 📚 Course Outline
 
-- **0.** Python & VS Code setup  
-- **1.** Variables, operations, data types  
-- **2.** Loops & conditions  
-- **3.** Lists & dictionaries  
-- **4.** Functions & classes  
-- **5.** Data analysis with Pandas  
-- **6.** Data visualization with Matplotlib  
-- **7.** Advanced Pandas techniques (avoid loops)  
-- **8.** Date & time handling  
-- **9.** Backtesting trading strategies  
-- **10.** Portfolio performance analysis  
+**0.** Python & VS Code setup  
+**1.** Variables, operations, data types  
+**2.** Loops & conditions  
+**3.** Lists & dictionaries  
+**4.** Functions & classes  
+**5.** Data analysis with Pandas  
+**6.** Data visualization with Matplotlib  
+**7.** Advanced Pandas techniques (avoid loops)  
+**8.** Date & time handling  
+**9.** Backtesting trading strategies  
+**10.** Portfolio performance analysis  
 
 ---
 
