@@ -7,16 +7,16 @@ The course covers Python basics applied to data analysis and finance, with pract
 
 ## 📚 Course Outline
 
- **Week 0:** Python & VS Code setup  
- **Week 1:** Variables, operations, data types  
- **Week 2:** Loops & conditions  
- **Week 3:** Lists & dictionaries  
- **Week 4:** Functions & classes  
- **Week 5:** Data analysis with Pandas  
- **Week 6:** Data visualization with Matplotlib  
- **Week 7:** Advanced Pandas techniques (avoid loops)  
- **Week 8:** Date & time handling  
- **Week 9:** Backtesting trading strategies  
+ **Week 0 :** Python & VS Code setup  
+ **Week 1:**  Variables, operations, data types  
+ **Week 2:**  Loops & conditions  
+ **Week 3:**  Lists & dictionaries  
+ **Week 4:**  Functions & classes  
+ **Week 5:**  Data analysis with Pandas  
+ **Week 6:**  Data visualization with Matplotlib  
+ **Week 7:**  Advanced Pandas techniques (avoid loops)  
+ **Week 8:**  Date & time handling  
+ **Week 9:**  Backtesting trading strategies  
  **Week 10:** Portfolio performance analysis  
 
 ---
