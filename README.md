@@ -23,9 +23,10 @@ The course covers Python basics applied to data analysis and finance, with pract
 
 ## ⚠️ Disclaimer
 
-All original content, including videos and exercise descriptions, belongs to **Crypto Robot**.  
-This repository only shares **my personal solutions and notes** for learning and practice purposes.  
-I highly recommend following the official course for full learning experience.
+> **Disclaimer:** All original content belongs to **Crypto Robot**.  
+> This repo contains only my personal solutions and notes.  
+> Please follow the official course for the full experience.  
+> *Some exercises were inspired by the author’s solutions.*
 
 ---
 
