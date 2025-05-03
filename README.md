@@ -1,5 +1,6 @@
 # 💼 Crypto Robot : Python for Finance
 
+<img src="https://avatars.githubusercontent.com/u/88462650?v=4" alt="Logo" width="150"/>
 This repository contains **my solutions and personal notes** from the free course **"Python pour la Finance"** created by **Crypto Robot**.
 The course covers Python basics applied to data analysis and finance, with practical exercises at the end of each session.
 
