@@ -1,7 +1,5 @@
 # 💼 Crypto Robot : Python for Finance
 
-![Crypto Robot Logo](https://avatars.githubusercontent.com/u/88462650?v=4)
-
 This repository contains **my solutions and personal notes** from the free course **"Python pour la Finance"** created by **Crypto Robot**.
 The course covers Python basics applied to data analysis and finance, with practical exercises at the end of each session.
 
@@ -32,6 +30,6 @@ Some exercises were inspired by the author’s solutions.
 
 ---
 
-
 📺 **Find all the videos of this free course here:**  
 👉 [https://robottraders.io/courses/phyton-for-finance](https://crypto-robot.com/formations/python-finance/2)
+![Crypto Robot Logo](https://avatars.githubusercontent.com/u/88462650?v=4)
