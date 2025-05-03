@@ -33,4 +33,3 @@ Some exercises were inspired by the author’s solutions.
 📺 **Find all the videos of this free course here:**  
 👉 [https://robottraders.io/courses/phyton-for-finance](https://crypto-robot.com/formations/python-finance/2)
 !
-[Crypto Robot Logo](https://avatars.githubusercontent.com/u/88462650?v=4)
